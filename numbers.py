@@ -10,14 +10,9 @@ print (int3)
 
 # note_print(1+1)
 # print(1+1)
-wood = "oak"
-pieces = 1003
+wood = input("Please enter the wood type:")
+pieces = 250
 cost = .32
 total = pieces * cost
 
 print('you can buy %i pieces of %s for $%f.' % (pieces, wood, total))
-
-
-
-
-

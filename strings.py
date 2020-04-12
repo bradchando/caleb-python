@@ -7,3 +7,5 @@ age = 12
 print(age)
 
 print("Hello, my name is %s. I am %i years old." % (full_name, age))
+
+
